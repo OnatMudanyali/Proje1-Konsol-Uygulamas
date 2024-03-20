@@ -1,1 +1,1 @@
-# Proje1-Konsol-Uygulamas-Mudanyal-App-
+# Proje1-Konsol-Uygulamasi
