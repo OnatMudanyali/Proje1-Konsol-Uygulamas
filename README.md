@@ -10,4 +10,8 @@ https://www.youtube.com/watch?v=uHo6GJxaXug&t=5s
 <img src="https://www.python.org/static/img/python-logo.png" alt="Python"/>
 
 # 1. PROJE KONSOL UYGULAMASI                   
+<h1></h1>
 
+<img width="305" alt="ANA MENÜ" src="![anamenü](https://github.com/OnatMudanyali/Proje1-Konsol-Uygulamas/assets/161920999/d1cb1b59-8ac6-4657-a84f-696eb4128ccd)">
+
+Proje Ana Menüsünde ilgili uygulamaları seçiniz.
