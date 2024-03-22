@@ -15,3 +15,13 @@ https://www.youtube.com/watch?v=uHo6GJxaXug&t=5s
 <img width="305" alt="ANA MENÜ" src="https://github.com/OnatMudanyali/Proje1-Konsol-Uygulamas/assets/161920999/d1cb1b59-8ac6-4657-a84f-696eb4128ccd">
 
 Proje Ana Menüsünde ilgili uygulamaları seçiniz.
+
+
+<h1></h1>
+
+1.HESAP MAKİNESİ
+
+<img width="295" alt="1 HESAP MAKİNESİ" src="https://github.com/OnatMudanyali/Proje1-Konsol-Uygulamas/assets/161920999/adfee6e8-177a-4c60-82c8-6818a83238df">
+
+Hesap Makinesi Menüsünden yapılması istenen işlemi seçiniz.
+
