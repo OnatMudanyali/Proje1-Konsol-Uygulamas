@@ -50,7 +50,7 @@ Seçilen Şekil Turtle Graphics de Çizilir.
 
 4.SAĞLIK
 
-<img width="305" alt="4 SAĞLIK" src="![sağlık](https://github.com/OnatMudanyali/Proje1-Konsol-Uygulamas/assets/161920999/dfe45cd9-9a3d-4f3d-bc12-95130b3d2948">
+<img width="305" alt="4 SAĞLIK" src="https://github.com/OnatMudanyali/Proje1-Konsol-Uygulamas/assets/161920999/dfe45cd9-9a3d-4f3d-bc12-95130b3d2948">
 
 Sağlık Menüsünden yapılması istenen işlemi seçiniz.
 Sağlık Alt Menüsünde Klo Hesaplayıcı Bazı Fonsiyonlar Bulunur,Bunlardan Bir Tanesi Seçilerek Kilo Hesaplanır.
