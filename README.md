@@ -2,10 +2,12 @@
 PROJE VIDEOSUNU LİNKE TIKLAYARAK İZLEYEBİLİRSİNİZ
 https://www.youtube.com/watch?v=uHo6GJxaXug&t=5s
 
-<h1 style ="color: blue; font-Times New Roman;
-font-size:55px"> Proje1-Konsol-Uygulaması </h1>
-# Projemin anamenü ksımını göstermektedir.
-<hr>
-<img src="projeresimleri/1.PNG" alt="anamenü">
-Projem anamenü de diğer menüler arassı geçiş yapar.
-Seçmek için istenilen numarayı yazınız.
+
+<h1 style="color:red; font-family:Times New Roman; font-size:55pt"> Console Uygulaması </h1>
+
+<h1>Ertan ÖNER </h1>
+
+<img src="https://www.python.org/static/img/python-logo.png" alt="Python"/>
+
+# 1. PROJE                   
+
