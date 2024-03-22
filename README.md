@@ -119,7 +119,7 @@ Size Ülkeler Hakkında Kısa Bilgiler Verir.
 <img width="305" alt="10 NOT HESABI" src="https://github.com/OnatMudanyali/Proje1-Konsol-Uygulamas/assets/161920999/110d2913-dd4f-416d-baf6-383f72c23aa4">
 
  Not Hesabı Menüsünden yapılması istenen işlemi seçiniz.
- Size Yükseköğretim Kurumlarında Kullanılan Not Hesabında Not Harfi Hesaplayarak Başaru Durumunuzu Ölçer.
+ Size Yükseköğretim Kurumlarında Kullanılan Not Hesabında Not Harfi Hesaplayarak Başarı Durumunuzu Ölçer.
 
 
 
