@@ -17,6 +17,7 @@ def ytmenü():
     if secim=="1":
         print("Yazı geldi...")
         yazi_tura = random.randint(1, 2)
+        ytmenü()
     elif secim=="2":
         print("Tura geldi...")
         yazi_tura = random.randint(1, 2)
